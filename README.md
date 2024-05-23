@@ -1,4 +1,4 @@
-Here is the SDK for the NFC Reset Control APP. The APP is used for the FST NFC 01/01U Module.
+Here is the SDK for the iOS NFC Reset Control APP. The APP is used for the FST NFC 01/01U Module.
 
 How to Start:
 1. Download the files.
